@@ -1,2 +1,2 @@
 # newrepo
-author - Sushanth H N
+author - Sushanth gowda H N
